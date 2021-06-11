@@ -1,23 +1,24 @@
 # Texas example config
 
 # Basic
-TOKEN: "YOUR_TOKEN"
+TOKEN: "1604394112:AAEuUhbdpAxaUNPp9qNRI7Tc_K6x6GbTOGo"
 
 # Get they in https://my.telegram.org/
-APP_ID: 1234
-APP_HASH: "YOUR_APP_HASH"
+APP_ID: 1179851
+APP_HASH: "e320c7b7261bad433230a516ade1d357"
 
-MONGODB_URI': 'localhost'
-MONGO_DB': 'texas'
+MONGODB_URI': 'mongodb+srv://palak:palakisluob@cluster0.votw5.mongodb.net/Cluster0?retryWrites=true&w=majority'
+MONGO_DB': 'palak'
 
 API_PORT': 8080
 
-REDIS_URI: "redis:xaxaxaxaxax"
-REDIS_PORT: 6379
-REDIS_PASS: "lol"
+REDIS_URI: "rediss://redis-12381.c267.us-east-1-4.ec2.cloud.redislabs.com:12381"
+REDIS_PORT: 12381
+REDIS_PASS: "jtE46BdUgrHmYu1xxf0KmxKiP2ZN8rZJ"
 
-OWNER_ID: 483808054
-OPERATORS: [483808054, 00000000]
+
+OWNER_ID: 1732306536
+OPERATORS: [1762983034]
 
 # Advanced
 SW_API: "SPAMWATCH_API_KEY"
