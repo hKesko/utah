@@ -12,7 +12,7 @@ MONGO_DB': 'palak'
 
 API_PORT': 8080
 
-REDIS_URI: "rediss://redis-11577.c228.us-central1-1.gce.cloud.redislabs.com:11577"
+REDIS_URI: "redis-11577.c228.us-central1-1.gce.cloud.redislabs.com:11577"
 REDIS_PORT: 11577
 REDIS_PASS: "3Xw3U0TCBZZEBoPAQewAy2KgG7TWrOxR"
 
